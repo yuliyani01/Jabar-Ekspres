@@ -1,0 +1,205 @@
+header {
+  font-family: 'Kreon', serif;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Poppins', serif;
+  
+}
+
+.form-login {
+  background: #FFFFFF;
+  border: 1px solid #C1C1C1;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.nav-link{
+  font-family: Kreon;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  margin-top: 0%;
+  padding: 0px;
+}
+
+.judul{
+  color :black ;
+  font-family: Sahitya;
+  font-size: 38px;
+}
+
+.justify-between{
+  justify-content : center;
+}
+
+.nav-border{
+  padding: 2px 15px;
+  height: 20px;
+  width: 20px;
+  margin: 0,3em;
+  margin-bottom: 5em;
+  font-family: kreon;
+  font-size: 20px;
+}
+
+.img-slider {
+  height: 400px;
+  filter: brightness(75%);
+}
+
+.carousel-caption {
+  margin-left: 20px;
+  padding-bottom: 0%;
+  font-family: poppins;
+  font-weight: 200;
+  background-color: rgba(0, 0, 0, 0.342);
+  max-width: 600px;
+}
+
+.carousel-caption h4 {
+  font-weight: 700;
+}
+
+.berita-populer {
+  Width : 113.7px;
+  Height : 62px;
+  Top : 201px;
+  Left : 780.09px;
+  margin-left: 1em;
+}
+
+.img-populer {
+  width: 80px;
+  height: 80px;
+  /**width: 95px;
+  height: 80px;
+  left: 731px;
+  top: 201px; **/
+}
+
+.text-populer {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  text-decoration: none;
+  color: black;
+}
+
+.text-terkini {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 0%;
+}
+
+.topik {
+  font-weight: 700;
+  font-size: 14px;
+  font-family: Poppins;
+  color: black;
+  margin-bottom: 0%;
+}
+
+.kategori {
+  font-size: 14px;
+  font-family: Poppins;
+  margin:0%;
+}
+
+.img-rekomen {
+  width: 200px;
+  height: 150px;
+}
+
+.rekomen {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.text-rekomen {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 25px;
+  text-decoration: none;
+}
+
+.img-terkini {
+  width: 147.49px;
+  height: 107px;
+  left: 131.98px;
+  top: 697px;
+}
+
+.img-berita-terkait {
+  width: 160px;
+  height: 116px;
+}
+
+.text-terkait {
+  width: 160px;
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.btn-custom {
+  background-color: #FA6C00;
+  padding: auto;
+  font-family: poppins;
+}
+
+hr {
+  color: #FA6C00;
+} 
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.brand {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.tag-link {
+  background-color: #f4f4f4;
+  padding: 4px 10px;
+  border-radius: 3px;
+  margin-right: 3px;
+  margin-bottom: 5px;
+  word-wrap: break-word;
+  word-break: break-all;
+  display: inline-block;
+  color: #2772DB;
+}
+
+.form-komentar {
+  width: 100%;
+  height: 300px;
+  background: rgba(200, 200, 201, 0.3);
+  border: 1px solid #C1C1C1;
+  border-radius: 4px;
+  padding: 15px 12px;
+}
+
+footer {
+  background-color: #FA6C00; 
+  text-decoration: none;
+}
+
+strong a {
+  color:#2772DB;
+}

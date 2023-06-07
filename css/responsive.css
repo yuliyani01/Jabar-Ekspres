@@ -1,0 +1,39 @@
+@media screen and (max-widht : 922px) {
+
+}
+
+@media screen and (max-widht : 576px) {
+    .img-slider {
+        height: fit-content;
+    }
+
+    .nav-border{
+        font-size: 13px;
+      }
+
+    .populer {
+        margin-top: 2px;
+    }
+
+    .text-terkini {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-widht : 350px) {
+    .img-slider {
+        height: fit-content;
+    }
+
+    .nav-border{
+        font-size: 13px;
+      }
+
+    .populer {
+        margin-top: 2px;
+    }
+
+    .text-terkini{
+        font-size: 16px;
+    }
+}
